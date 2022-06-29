@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is [deployed on Netlify](https://fanciful-entremet-8719f2.netlify.app/).
+This project is [deployed on Netlify](https://cheerful-chaja-0b4cbe.netlify.app/).
 
 ## Learning Concepts covered
 
@@ -22,7 +22,7 @@ React.createElement('div', { className: 'App' },
 )
 ```
 
-JSX is just "syntactic sugar" that hides that vanilla JavaScrip content.
+JSX is just "syntactic sugar" that hides that vanilla JavaScript content.
 
 ## Tasks
 
